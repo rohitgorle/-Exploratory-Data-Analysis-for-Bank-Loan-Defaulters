@@ -6,8 +6,6 @@ This case study aims to identify patterns which indicate if an applicant has dif
 
 Bank wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.  The bank can utilize this knowledge for its portfolio and risk assessment.
 
-Skip to the bottom for the YouTube link for a video explanation along with code walk through.
-
 Datasets:
 
 1. ‘application_data.csv’ contains all the information of the client at the time of application.
